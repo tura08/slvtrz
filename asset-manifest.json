@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/slvtrz/static/css/main.59a606f7.css",
-    "main.js": "/slvtrz/static/js/main.409a49de.js",
-    "static/media/logoQuad.png": "/slvtrz/static/media/logoQuad.887ae4dc83405cc6a391.png",
+    "main.css": "/slvtrz/static/css/main.553a2104.css",
+    "main.js": "/slvtrz/static/js/main.b5377d33.js",
+    "static/media/sfondo.png": "/slvtrz/static/media/sfondo.e021bdd7fed52240b3b3.png",
+    "static/media/maze.png": "/slvtrz/static/media/maze.00b5608d44b6f372f818.png",
+    "static/media/chess.png": "/slvtrz/static/media/chess.ffe32a547d3a344ad1bd.png",
+    "static/media/email.png": "/slvtrz/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/slvtrz/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/logo.svg": "/slvtrz/static/media/logo.cfeb5ef7576412d1aabfc1f390856629.svg",
+    "static/media/instagram.svg": "/slvtrz/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/slvtrz/index.html",
-    "main.59a606f7.css.map": "/slvtrz/static/css/main.59a606f7.css.map",
-    "main.409a49de.js.map": "/slvtrz/static/js/main.409a49de.js.map"
+    "static/media/facebook.svg": "/slvtrz/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.553a2104.css.map": "/slvtrz/static/css/main.553a2104.css.map",
+    "main.b5377d33.js.map": "/slvtrz/static/js/main.b5377d33.js.map"
   },
   "entrypoints": [
-    "static/css/main.59a606f7.css",
-    "static/js/main.409a49de.js"
+    "static/css/main.553a2104.css",
+    "static/js/main.b5377d33.js"
   ]
 }
