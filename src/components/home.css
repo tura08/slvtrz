@@ -1,0 +1,53 @@
+.h {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  background-image: url("https://images.unsplash.com/photo-1509358271058-acd22cc93898?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.h-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  padding: 100px 0;
+}
+
+.logoAth {
+  max-width: 100%; /* Ensure the image fits within its container */
+  max-height: 100%; /* Ensure the image fits within its container */
+}
+
+.h-wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+  margin: 0 auto; /* Center the h-wrapper itself horizontally */
+}
+
+.h-top {
+  padding: 40px 0px;
+  display: flex;
+}
+
+.h-top-left {
+  flex: 3;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  text-align: left;
+}
+
+.h-top-right {
+  flex: 2;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  text-align: left;
+}
