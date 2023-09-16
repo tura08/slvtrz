@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/slvtrz/static/css/main.59a606f7.css",
-    "main.js": "/slvtrz/static/js/main.ed95ba17.js",
+    "main.js": "/slvtrz/static/js/main.409a49de.js",
     "static/media/logoQuad.png": "/slvtrz/static/media/logoQuad.887ae4dc83405cc6a391.png",
     "index.html": "/slvtrz/index.html",
     "main.59a606f7.css.map": "/slvtrz/static/css/main.59a606f7.css.map",
-    "main.ed95ba17.js.map": "/slvtrz/static/js/main.ed95ba17.js.map"
+    "main.409a49de.js.map": "/slvtrz/static/js/main.409a49de.js.map"
   },
   "entrypoints": [
     "static/css/main.59a606f7.css",
-    "static/js/main.ed95ba17.js"
+    "static/js/main.409a49de.js"
   ]
 }
