@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slvtrz/static/css/main.5e21c0f8.css",
-    "main.js": "/slvtrz/static/js/main.7b16abfe.js",
+    "main.css": "/slvtrz/static/css/main.09ebbaf6.css",
+    "main.js": "/slvtrz/static/js/main.085775d4.js",
     "static/media/cv.pdf": "/slvtrz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/sfondo.png": "/slvtrz/static/media/sfondo.e021bdd7fed52240b3b3.png",
     "static/media/athesis.png": "/slvtrz/static/media/athesis.3b7324e494d4ad217523.png",
@@ -19,11 +19,11 @@
     "static/media/instagram.svg": "/slvtrz/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/slvtrz/index.html",
     "static/media/facebook.svg": "/slvtrz/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.5e21c0f8.css.map": "/slvtrz/static/css/main.5e21c0f8.css.map",
-    "main.7b16abfe.js.map": "/slvtrz/static/js/main.7b16abfe.js.map"
+    "main.09ebbaf6.css.map": "/slvtrz/static/css/main.09ebbaf6.css.map",
+    "main.085775d4.js.map": "/slvtrz/static/js/main.085775d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e21c0f8.css",
-    "static/js/main.7b16abfe.js"
+    "static/css/main.09ebbaf6.css",
+    "static/js/main.085775d4.js"
   ]
 }
