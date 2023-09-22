@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/slvtrz/static/css/main.986d7975.css",
-    "main.js": "/slvtrz/static/js/main.79ac1fed.js",
+    "main.css": "/slvtrz/static/css/main.64ef013a.css",
+    "main.js": "/slvtrz/static/js/main.adbd0aef.js",
     "static/media/cv.pdf": "/slvtrz/static/media/cv.05b3fb205d6135536aa0.pdf",
+    "static/media/reach2.png": "/slvtrz/static/media/reach2.8988a7d4fa1b4b7d0bd3.png",
+    "static/media/reach1.png": "/slvtrz/static/media/reach1.82739172f6d8a55f1312.png",
     "static/media/sfondo.png": "/slvtrz/static/media/sfondo.e021bdd7fed52240b3b3.png",
+    "static/media/reach3.png": "/slvtrz/static/media/reach3.bcbedae39c54467b467d.png",
+    "static/media/reach5.png": "/slvtrz/static/media/reach5.3964a8cb5042f28a8d52.png",
+    "static/media/reach8.png": "/slvtrz/static/media/reach8.edbb58cd4efc616488e8.png",
+    "static/media/reach6.png": "/slvtrz/static/media/reach6.da83ff081f9f06e09259.png",
+    "static/media/reach4.png": "/slvtrz/static/media/reach4.f93677c9006c84d7c6d9.png",
+    "static/media/instaSmartphone.png": "/slvtrz/static/media/instaSmartphone.2dac5d6a040d5992d2ec.png",
+    "static/media/reach7.png": "/slvtrz/static/media/reach7.16461602a32a552cdb8a.png",
     "static/media/athesis.png": "/slvtrz/static/media/athesis.3b7324e494d4ad217523.png",
     "static/media/io.png": "/slvtrz/static/media/io.c9cb3b24820f3df70e32.png",
+    "static/media/haze2.png": "/slvtrz/static/media/haze2.17cf5f52cd4cd450f7a4.png",
+    "static/media/locandine.png": "/slvtrz/static/media/locandine.8ea64d3821cadd69bc8e.png",
+    "static/media/haze1.png": "/slvtrz/static/media/haze1.52f5e2f9cc3a98670329.png",
     "static/media/reach.png": "/slvtrz/static/media/reach.1a68ad45ce067a7d192f.png",
+    "static/media/haze3.png": "/slvtrz/static/media/haze3.8f27fbdc3ae55f4405c3.png",
     "static/media/haze.png": "/slvtrz/static/media/haze.72d2ab8ad8c0034077fd.png",
     "static/media/tarocchi.png": "/slvtrz/static/media/tarocchi.43da1afb96c82f99b360.png",
-    "static/media/chess.png": "/slvtrz/static/media/chess.ffe32a547d3a344ad1bd.png",
+    "static/media/scacchiColori.png": "/slvtrz/static/media/scacchiColori.ffe32a547d3a344ad1bd.png",
     "static/media/prymordyal.png": "/slvtrz/static/media/prymordyal.642b813650feb79c1662.png",
+    "static/media/hazeIntro.png": "/slvtrz/static/media/hazeIntro.1a94e7fbfc45d5d714f9.png",
     "static/media/sfondoNero.png": "/slvtrz/static/media/sfondoNero.72452f4b0d3178e829e8.png",
     "static/media/email.png": "/slvtrz/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/phone.png": "/slvtrz/static/media/phone.d90a6d23cf5129d853bb.png",
@@ -19,11 +33,11 @@
     "static/media/instagram.svg": "/slvtrz/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/slvtrz/index.html",
     "static/media/facebook.svg": "/slvtrz/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.986d7975.css.map": "/slvtrz/static/css/main.986d7975.css.map",
-    "main.79ac1fed.js.map": "/slvtrz/static/js/main.79ac1fed.js.map"
+    "main.64ef013a.css.map": "/slvtrz/static/css/main.64ef013a.css.map",
+    "main.adbd0aef.js.map": "/slvtrz/static/js/main.adbd0aef.js.map"
   },
   "entrypoints": [
-    "static/css/main.986d7975.css",
-    "static/js/main.79ac1fed.js"
+    "static/css/main.64ef013a.css",
+    "static/js/main.adbd0aef.js"
   ]
 }
