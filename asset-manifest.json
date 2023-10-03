@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slvtrz/static/css/main.fdc71cff.css",
-    "main.js": "/slvtrz/static/js/main.846c75aa.js",
+    "main.css": "/slvtrz/static/css/main.4ec349c8.css",
+    "main.js": "/slvtrz/static/js/main.8b36164e.js",
     "static/media/cv.pdf": "/slvtrz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/2s.png": "/slvtrz/static/media/2s.52f5e2f9cc3a98670329.png",
     "static/media/22.png": "/slvtrz/static/media/22.aaab4daf64cc8b31b281.png",
@@ -36,7 +36,6 @@
     "static/media/reach8.png": "/slvtrz/static/media/reach8.5795799492d6be2aee16.png",
     "static/media/haze.png": "/slvtrz/static/media/haze.72d2ab8ad8c0034077fd.png",
     "static/media/7row3.jpg": "/slvtrz/static/media/7row3.fd675a2a3484e4f08411.jpg",
-    "static/media/sfondo.jpg": "/slvtrz/static/media/sfondo.80440c77b8d00301f5da.jpg",
     "static/media/4row3.jpg": "/slvtrz/static/media/4row3.730c3fc24874fc2e99b5.jpg",
     "static/media/1row3.jpg": "/slvtrz/static/media/1row3.e7a1ed7e0539b5168605.jpg",
     "static/media/8row3.jpg": "/slvtrz/static/media/8row3.19ef400d742602779c8a.jpg",
@@ -53,6 +52,7 @@
     "static/media/scacchiColori.png": "/slvtrz/static/media/scacchiColori.ffe32a547d3a344ad1bd.png",
     "static/media/1.png": "/slvtrz/static/media/1.1a9b1139bbf1a968d0c9.png",
     "static/media/14.png": "/slvtrz/static/media/14.4d7e4b995c774546b4ab.png",
+    "static/media/sfondo.png": "/slvtrz/static/media/sfondo.307832170b265a10f52d.png",
     "static/media/10.png": "/slvtrz/static/media/10.52e96518e93e0f5b36ec.png",
     "static/media/4.png": "/slvtrz/static/media/4.2a901c2f33922bdc089f.png",
     "static/media/2.png": "/slvtrz/static/media/2.8992eed29cf2c56a7b14.png",
@@ -83,19 +83,19 @@
     "static/media/sfondoNero.png": "/slvtrz/static/media/sfondoNero.72452f4b0d3178e829e8.png",
     "static/media/19.png": "/slvtrz/static/media/19.895fca6dedb0d3bc23ee.png",
     "static/media/29.png": "/slvtrz/static/media/29.59aad924c82982b382c6.png",
+    "static/media/Logounito.svg": "/slvtrz/static/media/Logounito.eb41ad2fb72bbfd63a7b881814f65aed.svg",
     "static/media/1row2.svg": "/slvtrz/static/media/1row2.a9e3a444967060c38b62594926c8cc3f.svg",
+    "static/media/Logodiviso.svg": "/slvtrz/static/media/Logodiviso.e37a8add7276429f1efcd26d39377561.svg",
     "static/media/email.png": "/slvtrz/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/phone.png": "/slvtrz/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/logoBianco.svg": "/slvtrz/static/media/logoBianco.aefc289dc78ca4fa54964f15e6e96016.svg",
-    "static/media/logoNero.svg": "/slvtrz/static/media/logoNero.cfeb5ef7576412d1aabfc1f390856629.svg",
     "static/media/instagram.svg": "/slvtrz/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/slvtrz/index.html",
     "static/media/facebook.svg": "/slvtrz/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.fdc71cff.css.map": "/slvtrz/static/css/main.fdc71cff.css.map",
-    "main.846c75aa.js.map": "/slvtrz/static/js/main.846c75aa.js.map"
+    "main.4ec349c8.css.map": "/slvtrz/static/css/main.4ec349c8.css.map",
+    "main.8b36164e.js.map": "/slvtrz/static/js/main.8b36164e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdc71cff.css",
-    "static/js/main.846c75aa.js"
+    "static/css/main.4ec349c8.css",
+    "static/js/main.8b36164e.js"
   ]
 }
