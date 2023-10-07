@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slvtrz/static/css/main.be2f04da.css",
-    "main.js": "/slvtrz/static/js/main.97e9e3bc.js",
+    "main.css": "/slvtrz/static/css/main.144a4633.css",
+    "main.js": "/slvtrz/static/js/main.c302d03a.js",
     "static/media/cv.pdf": "/slvtrz/static/media/cv.05b3fb205d6135536aa0.pdf",
     "static/media/12.png": "/slvtrz/static/media/12.480df90d3d3bc7f6d32a.png",
     "static/media/16.png": "/slvtrz/static/media/16.e92b18fae5f8940401f6.png",
@@ -107,21 +107,21 @@
     "static/media/Logounito.svg": "/slvtrz/static/media/Logounito.eb41ad2fb72bbfd63a7b881814f65aed.svg",
     "static/media/1row2.svg": "/slvtrz/static/media/1row2.a9e3a444967060c38b62594926c8cc3f.svg",
     "static/media/Logodiviso.svg": "/slvtrz/static/media/Logodiviso.e37a8add7276429f1efcd26d39377561.svg",
-    "static/media/email.png": "/slvtrz/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/phone.png": "/slvtrz/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/instagramProj.svg": "/slvtrz/static/media/instagramProj.0dd482fa842bd7851f54ff91a01be94a.svg",
     "static/media/youtubeProj.svg": "/slvtrz/static/media/youtubeProj.93be20e9956a840941cf6ca7b5db0d5b.svg",
-    "static/media/instagram.svg": "/slvtrz/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/instagramFoot.svg": "/slvtrz/static/media/instagramFoot.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/tiktokFoot.svg": "/slvtrz/static/media/tiktokFoot.bf6a8b746920618ce34613b035c0ee11.svg",
     "static/media/linkedinProj.svg": "/slvtrz/static/media/linkedinProj.fb0a14638026aad697d1c7ccceaf5aa0.svg",
     "static/media/facebookProj.svg": "/slvtrz/static/media/facebookProj.269ec09791a7fbaa6abd794da8f87347.svg",
     "static/media/websiteProj.svg": "/slvtrz/static/media/websiteProj.ae56f1c35ef7afb69d83ea4907f7c5ed.svg",
     "index.html": "/slvtrz/index.html",
-    "static/media/facebook.svg": "/slvtrz/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.be2f04da.css.map": "/slvtrz/static/css/main.be2f04da.css.map",
-    "main.97e9e3bc.js.map": "/slvtrz/static/js/main.97e9e3bc.js.map"
+    "static/media/linkedinFoot.svg": "/slvtrz/static/media/linkedinFoot.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/facebookFoot.svg": "/slvtrz/static/media/facebookFoot.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.144a4633.css.map": "/slvtrz/static/css/main.144a4633.css.map",
+    "main.c302d03a.js.map": "/slvtrz/static/js/main.c302d03a.js.map"
   },
   "entrypoints": [
-    "static/css/main.be2f04da.css",
-    "static/js/main.97e9e3bc.js"
+    "static/css/main.144a4633.css",
+    "static/js/main.c302d03a.js"
   ]
 }
